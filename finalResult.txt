@@ -1,0 +1,46 @@
+Total fares	28693.949299999967
+
+Average fare
+1st class	84.1546875
+2nd class	20.662183152173913
+3d class	13.675550101832993
+
+Survived total	342
+Not survived total	549
+
+Survived men	67
+Not survived men	297
+
+Survived women	144
+Not survived women	42
+
+Survived children	113
+Not survived children	177
+
+Survived total Cl1	136
+Not survived total Cl1	80
+Survived men Cl1	36
+Not survived men Cl1	58
+Survived women Cl1	69
+Not survived women Cl1	2
+Survived children Cl1	25
+Not survived children Cl1	17
+
+Survived total Cl2	87
+Not survived total Cl2	97
+Survived men Cl2	5
+Not survived men Cl2	75
+Survived women Cl2	52
+Not survived women Cl2	6
+Survived children Cl2	25
+Not survived children Cl2	9
+
+Survived total Cl3	119
+Not survived total Cl3	372
+Survived men Cl3	26
+Not survived men Cl3	164
+Survived women Cl3	23
+Not survived women Cl3	34
+Survived children Cl3	63
+Not survived children Cl3	151
+
